@@ -1,0 +1,2 @@
+# Task-sucker
+Android application which is conceptualized and created for the users to allow them to create and manage multiple tasks. The application also allows the users to set a deadline for the tasks so that they can get the notification when the particular deadline is due. The user is also allowed to record and review a video note for the task. The tasks can be edited or deleted whenever necessary.
